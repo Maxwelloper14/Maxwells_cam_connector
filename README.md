@@ -1,0 +1,1 @@
+This is a fan project to create a python application that will connect to CCTV cameras and display their content. IMPORTANT: I AM NOT RESPONSIBLE FOR YOUR ACTIONS IF YOU USE THIS APPLICATION FOR FRAUDULENT PURPOSES OR WORSE
